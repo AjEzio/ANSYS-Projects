@@ -8,3 +8,4 @@ Projects:
 3) Compressible flow in a nozzle
 4) Inviscid flow over an aerofoil
 5) Wall Resolved vs wall function turbulent flat plate simulation
+6) Backward Facing Step
